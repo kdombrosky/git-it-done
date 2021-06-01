@@ -92,3 +92,5 @@ var getRepoIssues = function(repo) {
 };
 
 getRepoName();
+
+q=javascript+html+css+is:featured
